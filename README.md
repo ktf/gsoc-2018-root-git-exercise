@@ -18,7 +18,7 @@ Git rocks
 ```
 
 ```
-Root rocks
+ROOT rocks
 ```
 
 and should be put in a folder called `test`.
