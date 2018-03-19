@@ -1,0 +1,3 @@
+As a second exercise you should install [ROOT](https://root.cern.ch), go through the various tutorials and create a ROOT macro which creates a `TFile` with a few randomly generated `TH1F` histograms.
+
+Once you have such a `TFile`, you should be able to navigate it and get the list of all the `TKey`s it is made of and print the name and the first few bytes for each TKey.
